@@ -33,7 +33,7 @@ if(isset($_GET['deslogar'])){
   
         <!-- inicio menu lateral 14/02/2022 -->
 
-            <div class="main-menu sidebar d-flex flex-column  p-2 bg-dark menu" > <span class="icone-menu">Ban Ban</span><a href="../pages/home.php" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-white text-decoration-none"> <span class="title">Sistema de Despesa</span> </a>
+            <div class="main-menu sidebar d-flex flex-column  p-2 bg-dark menu" > <span class="icone-menu">Nome da Empresa</span><a href="../pages/home.php" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-white text-decoration-none"> <span class="title">Sistema de Despesa</span> </a>
             <!--<div class="main-menu sidebar d-flex flex-column vh-100 flex-shrink-0 p-3 text-white bg-dark menu " style="width:250px"> <a href="../pages/home.php" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-white text-decoration-none"> <svg class="bi me-2" width="40" height="32"> </svg> <span class="fs-4" style="text-align: left;">Sistema de Despesa</span> </a>-->
                 <hr>
                 <ul class="nav nav-pills flex-column mb-auto">
